@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.exe
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\ref\TempConversionProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\bin\Debug\net5.0\TempConversionProgram.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\ref\TempConversionProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\TemperatureConversionProgram\TempConversionProgram\TempConversionProgram\obj\Debug\net5.0\TempConversionProgram.genruntimeconfig.cache
